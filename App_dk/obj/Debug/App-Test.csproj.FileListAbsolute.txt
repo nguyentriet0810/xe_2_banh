@@ -1,0 +1,55 @@
+E:\VISUAL STUDIO\App-Test\bin\Debug\App-Test.exe.config
+E:\VISUAL STUDIO\App-Test\bin\Debug\App-Test.exe
+E:\VISUAL STUDIO\App-Test\bin\Debug\App-Test.pdb
+E:\VISUAL STUDIO\App-Test\bin\Debug\ZedGraph.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\ZedGraph.Web.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\ZedGraph.xml
+E:\VISUAL STUDIO\App-Test\bin\Debug\ZedGraph.Web.xml
+E:\VISUAL STUDIO\App-Test\bin\Debug\de\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\es\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\fr\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\hu\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\it\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\ja\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\pt\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\ru\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\sk\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\sv\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\tr\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\VISUAL STUDIO\App-Test\obj\Debug\App-Test.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\App-Test\obj\Debug\App_Test.Form1.resources
+E:\VISUAL STUDIO\App-Test\obj\Debug\App_Test.Properties.Resources.resources
+E:\VISUAL STUDIO\App-Test\obj\Debug\App-Test.csproj.GenerateResource.cache
+E:\VISUAL STUDIO\App-Test\obj\Debug\App-Test.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\App-Test\obj\Debug\App-Test.csproj.CopyComplete
+E:\VISUAL STUDIO\App-Test\obj\Debug\App-Test.exe
+E:\VISUAL STUDIO\App-Test\obj\Debug\App-Test.pdb
+F:\doan2dktd\App-Test\bin\Debug\App-Test.exe.config
+F:\doan2dktd\App-Test\bin\Debug\App-Test.exe
+F:\doan2dktd\App-Test\bin\Debug\App-Test.pdb
+F:\doan2dktd\App-Test\bin\Debug\ZedGraph.xml
+F:\doan2dktd\App-Test\bin\Debug\ZedGraph.Web.xml
+F:\doan2dktd\App-Test\bin\Debug\de\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\es\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\fr\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\hu\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\it\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\ja\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\pt\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\ru\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\sk\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\sv\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\tr\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\doan2dktd\App-Test\obj\Debug\App-Test.csproj.AssemblyReference.cache
+F:\doan2dktd\App-Test\obj\Debug\App-Test.csproj.SuggestedBindingRedirects.cache
+F:\doan2dktd\App-Test\obj\Debug\App_Test.Form1.resources
+F:\doan2dktd\App-Test\obj\Debug\App_Test.Properties.Resources.resources
+F:\doan2dktd\App-Test\obj\Debug\App-Test.csproj.GenerateResource.cache
+F:\doan2dktd\App-Test\obj\Debug\App-Test.csproj.CoreCompileInputs.cache
+F:\doan2dktd\App-Test\obj\Debug\App-Test.csproj.CopyComplete
+F:\doan2dktd\App-Test\obj\Debug\App-Test.exe
+F:\doan2dktd\App-Test\obj\Debug\App-Test.pdb
